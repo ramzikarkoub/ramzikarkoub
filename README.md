@@ -3,7 +3,7 @@ Passionate web developer | Innovative Problem Solver | Dedicated to Crafting Use
 
 
 ## 🌐 Socials:
-[![Website]](https://linkedin.com/in/https://www.ramzikarkoub.com/) 
+[Personal Website](https://linkedin.com/in/https://www.ramzikarkoub.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ramzikarkoub/) 
 
 # 💻 Tech Stack:
